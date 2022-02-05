@@ -71,10 +71,63 @@ Your team is expected to develop a **video tutorial** that either introduces one
 Grading
 -------
 
-| ACTIVITIES | % OF FINAL GRADE  |
-| --- | --- |
-| Class participation and classroom exercises | 18% |
-| Project | 45% |
-| Tutorial | 17% |
-| Team member assessment | 15% |
-| Tutorial and project review | 5%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+% OF FINAL GRADE 
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and classroom exercises
+{{< tdclose >}}
+{{< tdopen >}}
+18%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+17%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team member assessment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tutorial and project review
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

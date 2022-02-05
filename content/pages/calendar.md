@@ -4,20 +4,222 @@ title: Calendar
 uid: 30493ad7-14eb-73e3-b86f-24f4fbb05f62
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Intro; Choosing Projects, Modeling Process, Selecting Stock Variables {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Model Analysis Process; Equilibrium | Homework 1 due |
-| 3 | Model Replication and Analysis |  {{< br >}}{{< br >}} Group Presentations: Literature and data sources, qualitative model {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Tutorial Topic Selection due {{< br >}}{{< br >}}  |
-| 4 | Formulations: Allocation, Coflows | Group Presentations: Literature and data sources, qualitative model |
-| 5 | Useful functional forms, Subscripts, Data Connections | Group Presentations: Quantitative Model, First Version |
-| 6 | Process Noise, Sensitivity and Monte Carlo Simulation | Group Presentations: Quantitative Model, First Version (cont.) |
-| {{< td-colspan 2 >}}Spring Break{{< /td-colspan >}} || Tutorial Submission due |
-| 7 | Optimization (deterministic and stochastic) | Group Presentations: Quantitative Model, Second Version |
-| 8 | Calibration (Maximum Likelihood and simulated method of moments) |  {{< br >}}{{< br >}} Group Presentations: Quantitative Model, Second Version (cont.) {{< br >}}{{< br >}} Tutorial Evaluation due {{< br >}}{{< br >}}  |
-| 9 | Calibration (Kalman Filtering and confidence intervals) | Group Presentations: Model calibration and analysis |
-| 10 | Dynamic Control and Games | Group Presentations: Model calibration and analysis (cont.) |
-| 11 | Advanced Model Analysis Techniques | Group Presentations: Analysis and insights |
-| 12 | Modeling that Matters; Final notes | Group Presentations: Analysis and insights (cont.) |
-| – | No class meeting | Final Project Report Submission due |
-| – | No class meeting (cont.) |  {{< br >}}{{< br >}} Final Project Evaluation due {{< br >}}{{< br >}} Team Member Evaluation due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intro; Choosing Projects, Modeling Process, Selecting Stock Variables
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Model Analysis Process; Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Model Replication and Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group Presentations: Literature and data sources, qualitative model
+
+Homework 2 due
+
+Tutorial Topic Selection due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Formulations: Allocation, Coflows
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Literature and data sources, qualitative model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Useful functional forms, Subscripts, Data Connections
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Quantitative Model, First Version
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Process Noise, Sensitivity and Monte Carlo Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Quantitative Model, First Version (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+Spring Break
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Submission due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Optimization (deterministic and stochastic)
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Quantitative Model, Second Version
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Calibration (Maximum Likelihood and simulated method of moments)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group Presentations: Quantitative Model, Second Version (cont.)
+
+Tutorial Evaluation due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Calibration (Kalman Filtering and confidence intervals)
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Model calibration and analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic Control and Games
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Model calibration and analysis (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Model Analysis Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Analysis and insights
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling that Matters; Final notes
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations: Analysis and insights (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+–
+{{< tdclose >}}
+{{< tdopen >}}
+No class meeting
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Report Submission due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+–
+{{< tdclose >}}
+{{< tdopen >}}
+No class meeting (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Project Evaluation due
+
+Team Member Evaluation due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
